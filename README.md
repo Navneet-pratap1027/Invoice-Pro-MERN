@@ -5,7 +5,7 @@ A powerful and sleek invoicing platform built with the MERN stack to help busine
 ---
 
 ## 🔗 Live Demo
-**Check out the live project here:** [👉 Click here to View Live Project]([https://invoice-pro-mern.vercel.app])
+**Check out the live project here:** [👉 Click here to View Live Project](https://invoice-pro-mern.vercel.app)
 
 ---
 
